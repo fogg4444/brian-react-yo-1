@@ -1,4 +1,4 @@
-# generator-react-webpack-redux
+# brian-react-yo-1
 > Generator-React-Webpack - with Flux Support (using Redux)
 
 [![Build Status](https://travis-ci.org/stylesuxx/generator-react-webpack-redux.svg?branch=master)](https://travis-ci.org/stylesuxx/generator-react-webpack-redux) ![Amount of Downloads per month](https://img.shields.io/npm/dm/generator-react-webpack-redux.svg "Amount of Downloads") [![Dependency Status](https://david-dm.org/stylesuxx/generator-react-webpack-redux.svg)](https://david-dm.org/stylesuxx/generator-react-webpack-redux) [![devDependency Status](https://david-dm.org/stylesuxx/generator-react-webpack-redux/dev-status.svg)](https://david-dm.org/stylesuxx/generator-react-webpack-redux?type=dev) ![Node Version](https://img.shields.io/node/v/generator-react-webpack-redux.svg "Node Version")
@@ -23,7 +23,7 @@ Make sure your nodeJS version is **>=4.5** and npm  version is **>=3.0.0**.
 ## Installation
 ```bash
 npm install -g yo
-npm install -g generator-react-webpack-redux
+npm install -g brian-react-yo-1
 ```
 
 ### Global npm packages
@@ -38,31 +38,31 @@ npm install -g phantomjs-prebuilt
 mkdir my-new-project && cd my-new-project
 
 # Run the generator
-yo react-webpack-redux
+yo brian-react-yo-1
 ```
 
 ## Generating new reducers
 ```bash
-yo react-webpack-redux:reducer my/namespaced/reducers/name
-yo react-webpack-redux:reducer items
+yo brian-react-yo-1:reducer my/namespaced/reducers/name
+yo brian-react-yo-1:reducer items
 ```
 
 ## Generating new actions
 ```bash
-yo react-webpack-redux:action my/namespaced/actions/name
-yo react-webpack-redux:action addItem
+yo brian-react-yo-1:action my/namespaced/actions/name
+yo brian-react-yo-1:action addItem
 ```
 
 ## Generating new components
 ```bash
-yo react-webpack-redux:component my/namespaced/components/name
-yo react-webpack-redux:component button
+yo brian-react-yo-1:component my/namespaced/components/name
+yo brian-react-yo-1:component button
 ```
 
 ## Generating new containers
 ```bash
-yo react-webpack-redux:container my/namespaced/container/Name
-yo react-webpack-redux:container wrapper
+yo brian-react-yo-1:container my/namespaced/container/Name
+yo brian-react-yo-1:container wrapper
 ```
 
 ## Usage
