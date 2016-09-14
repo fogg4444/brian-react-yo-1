@@ -1,6 +1,6 @@
 {
   "name": "generator-react-webpack-redux",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "Yeoman generator for ReactJS and Flux (Redux) via Webpack",
   "keywords": [
     "yeoman-generator",
