@@ -1,6 +1,6 @@
 {
   "name": "brian-react-yo-1",
-  "version": "4.0.0",
+  "version": "5.0.0",
   "description": "Yeoman generator for ReactJS and Flux (Redux) via Webpack",
   "keywords": [
     "yeoman-generator",
