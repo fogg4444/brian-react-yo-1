@@ -1,5 +1,5 @@
 {
-  "name": "generator-react-webpack-redux",
+  "name": "brian-react-yo-1",
   "version": "4.0.0",
   "description": "Yeoman generator for ReactJS and Flux (Redux) via Webpack",
   "keywords": [
@@ -11,11 +11,11 @@
     "scaffold",
     "front-end"
   ],
-  "homepage": "https://github.com/stylesuxx/generator-react-webpack-redux",
-  "bugs": "https://github.com/stylesuxx/generator-react-webpack-redux/issues",
+  "homepage": "https://github.com/fogg4444/brian-react-yo-1",
+  "bugs": "https://github.com/fogg4444/brian-react-yo-1/issues",
   "author": {
-    "name": "Chris Landa",
-    "email": "stylesuxx@gmail.com"
+    "name": "Brian Fogg",
+    "email": "fogg4444@gmail.com"
   },
   "contributors": [
     {
